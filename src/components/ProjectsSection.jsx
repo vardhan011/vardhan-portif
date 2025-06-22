@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Electric Vehicle  Landing Page",
-    description: "Designed and developed a modern, responsive landing page for an electric vehicle company to showcase its brand and features.",
-    image: "/projects/project1.png",
+    title: "House Plant Store Landing Page",
+    description: "A modern and responsive React landing page designed to showcase a house plant store’s brand and features.",
+    image: "/projects/qqqqqq.png",
     tags: ["React", "javascript", "HTML"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/vardhan011/ev_LandingPage",
+    demoUrl: "https://hou-os-eplant.vercel.app/",
+    githubUrl: "https://github.com/vardhan011/HOUOsEplant",
   },
   {
     id: 2,
@@ -17,14 +17,14 @@ const projects = [
       "Built a full-stack MERN application to securely collect and manage user health records. Integrated QR code generation for instant access",
     image: "/projects/qrhwlper.png",
     tags: ["javascript", "Tailwindcss", "React.js"],
-    demoUrl: "https://qrhelper-jq1d-git-main-vardhan011s-projects.vercel.app/",
+    demoUrl: "https://qrhelper.vercel.app/",
     githubUrl: "https://github.com/vardhan011/qrhelper",
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: " Personal Portfolio",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "Personal Portfolio Website built with React and Tailwind CSS",
     image: "/projects/porttt.png",
     tags: ["React", "Node.js", "Stripe"],
     demoUrl: "#",
