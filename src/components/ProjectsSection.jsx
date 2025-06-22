@@ -16,18 +16,18 @@ const projects = [
     description:
       "Built a full-stack MERN application to securely collect and manage user health records. Integrated QR code generation for instant access",
     image: "/projects/qrhwlper.png",
-    tags: ["javascript", "Tailwindcss", "React.js"],
+    tags: ["javascript", "Tailwindcss", "React.js", "MongoDB"],
     demoUrl: "https://qrhelper.vercel.app/",
     githubUrl: "https://github.com/vardhan011/qrhelper",
   },
   {
     id: 3,
-    title: " Personal Portfolio",
+    title: "Personal Portfolio",
     description:
       "Personal Portfolio Website built with React and Tailwind CSS",
     image: "/projects/porttt.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
+    tags: ["React", "Tailwindcss"],
+    demoUrl: "https://vardhan-portif.vercel.app/",
     githubUrl: "https://github.com/vardhan011/vardhan-portif",
   },
 ];
